@@ -1,4 +1,4 @@
-
+﻿
 
 Disk Space Requirements
 =======================
@@ -151,9 +151,9 @@ Filesystem recommendations
 .. note::
 
 
-   - `Minimum Nodes <minimum_nodes.rst>`_ -- Minimum node counts per scenario.
-   - `Storage Config <../Configuration/storage_config.rst>`_ -- NFS and BeeGFS mount
+   - `Minimum Nodes <minimum_nodes>`_ -- Minimum node counts per scenario.
+   - `Storage Config <../Configuration/storage_config>`_ -- NFS and BeeGFS mount
      configuration.
-   - `Local Repo Config <../Configuration/local_repo_config.rst>`_ -- Pulp repository
+   - `Local Repo Config <../Configuration/local_repo_config>`_ -- Pulp repository
      storage path.
 

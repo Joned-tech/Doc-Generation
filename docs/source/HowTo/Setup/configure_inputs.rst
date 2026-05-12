@@ -1,4 +1,4 @@
-
+﻿
 
 Configure Inputs
 ================
@@ -37,7 +37,7 @@ Prerequisites
 -------------
 
 
-- The `Deploy Omnia Core <deploy_omnia_core.rst>`_ procedure is complete and ``omnia_core`` is
+- The `Deploy Omnia Core <deploy_omnia_core>`_ procedure is complete and ``omnia_core`` is
   running.
 - You have planned your network topology (IP ranges, VLANs, subnets).
 - You know which software stacks you want to deploy (Slurm, Kubernetes,
@@ -268,8 +268,8 @@ Next Steps
 ----------
 
 
-- `Configure Credentials <configure_credentials.rst>`_ -- Set up encrypted credentials for provisioning.
-- `Prepare Oim <prepare_oim.rst>`_ -- Prepare OIM services (OpenCHAMI, Pulp, etc.).
+- `Configure Credentials <configure_credentials>`_ -- Set up encrypted credentials for provisioning.
+- `Prepare Oim <prepare_oim>`_ -- Prepare OIM services (OpenCHAMI, Pulp, etc.).
 
 
 

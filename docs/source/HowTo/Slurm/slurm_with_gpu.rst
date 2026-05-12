@@ -1,4 +1,4 @@
-
+﻿
 
 Slurm with GPUs
 ===============
@@ -47,7 +47,7 @@ Prerequisites
 
 
 - Local repositories are synced with GPU packages (see
-  `Create Local Repos <../Setup/create_local_repos.rst>`_).
+  `Create Local Repos <../Setup/create_local_repos>`_).
 - GPU nodes are assigned to the ``slurm_node`` functional group in the
   mapping file.
 
@@ -242,8 +242,8 @@ Next Steps
 ----------
 
 
-- `Run Hpc Benchmarks <run_hpc_benchmarks.rst>`_ -- Run GPU-accelerated benchmarks.
-- `Use Apptainer <../Containers/use_apptainer.rst>`_ -- Run GPU containers with Apptainer.
+- `Run Hpc Benchmarks <run_hpc_benchmarks>`_ -- Run GPU-accelerated benchmarks.
+- `Use Apptainer <../Containers/use_apptainer>`_ -- Run GPU containers with Apptainer.
 
 
 

@@ -1,4 +1,4 @@
-
+﻿
 
 Telemetry Issues
 ================
@@ -375,7 +375,7 @@ Grafana dashboards empty
 .. note::
 
 
-   - `Setup Telemetry <../HowTo/Telemetry/setup_telemetry.rst>`_ -- Telemetry pipeline setup.
-   - `Verify Telemetry <../HowTo/Telemetry/verify_telemetry.rst>`_ -- Verification procedures.
-   - `Log Management <../Operations/log_management.rst>`_ -- Log locations for telemetry services.
+   - `Setup Telemetry <../HowTo/Telemetry/setup_telemetry>`_ -- Telemetry pipeline setup.
+   - `Verify Telemetry <../HowTo/Telemetry/verify_telemetry>`_ -- Verification procedures.
+   - `Log Management <../Operations/log_management>`_ -- Log locations for telemetry services.
 

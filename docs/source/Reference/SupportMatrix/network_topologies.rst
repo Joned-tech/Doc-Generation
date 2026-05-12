@@ -1,4 +1,4 @@
-
+﻿
 
 Network Topologies
 ==================
@@ -177,8 +177,8 @@ Topology and `network_spec.yml` mapping
 .. note::
 
 
-   - `Network Spec <../Configuration/network_spec.rst>`_ -- Full ``network_spec.yml``
+   - `Network Spec <../Configuration/network_spec>`_ -- Full ``network_spec.yml``
      parameter reference.
-   - `Switches <switches.rst>`_ -- Switch models and VLAN configuration.
-   - `Nics <nics.rst>`_ -- Supported NIC models for each topology.
+   - `Switches <switches>`_ -- Switch models and VLAN configuration.
+   - `Nics <nics>`_ -- Supported NIC models for each topology.
 

@@ -1,4 +1,4 @@
-
+﻿
 
 Verify Telemetry
 ================
@@ -25,7 +25,7 @@ Prerequisites
 -------------
 
 
-- The `Setup Telemetry <setup_telemetry.rst>`_ procedure is complete.
+- The `Setup Telemetry <setup_telemetry>`_ procedure is complete.
 - The K8s service cluster is running with telemetry pods.
 - LDMS agents are deployed on compute nodes.
 - Grafana is accessible via the browser.
@@ -255,9 +255,9 @@ Next Steps
 ----------
 
 
-- `Configure Ldms <configure_ldms.rst>`_ -- Fine-tune metric collection.
-- `Configure External Kafka <configure_external_kafka.rst>`_ -- Scale the transport layer.
-- `Configure External Victoria <configure_external_victoria.rst>`_ -- Scale the storage layer.
+- `Configure Ldms <configure_ldms>`_ -- Fine-tune metric collection.
+- `Configure External Kafka <configure_external_kafka>`_ -- Scale the transport layer.
+- `Configure External Victoria <configure_external_victoria>`_ -- Scale the storage layer.
 
 
 

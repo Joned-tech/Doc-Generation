@@ -1,4 +1,4 @@
-
+﻿
 
 security_config.yml Reference
 =============================
@@ -228,8 +228,8 @@ Usage example
 .. note::
 
 
-   - `Playbook Reference <../Playbooks/playbook_reference.rst>`_ -- The ``auth.yml``
+   - `Playbook Reference <../Playbooks/playbook_reference>`_ -- The ``auth.yml``
      playbook that deploys authentication services.
-   - `Ports <../ClusterRequirements/ports.rst>`_ -- Ports required by LDAP,
+   - `Ports <../ClusterRequirements/ports>`_ -- Ports required by LDAP,
      Kerberos, and FreeIPA.
 

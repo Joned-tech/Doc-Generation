@@ -1,4 +1,4 @@
-
+﻿
 
 Security Model
 ==============
@@ -328,7 +328,7 @@ Security best practices
    * - **Protect the vault password**
      - Store the Ansible Vault password in a file with ``0600`` permissions, accessible only to the Omnia administrator. Do not commit it to version control.
    * - **Isolate the BMC network**
-     - Use the `Dedicated topology <network_topologies.rst>`_ or VLANs to ensure that BMC/iDRAC traffic is not accessible from user-facing networks.
+     - Use the `Dedicated topology <network_topologies>`_ or VLANs to ensure that BMC/iDRAC traffic is not accessible from user-facing networks.
    * - **Rotate credentials**
      - Use the credential utility to rotate passwords periodically, especially after personnel changes.
    * - **Monitor certificate expiration**
@@ -343,9 +343,9 @@ Security best practices
 .. note::
 
 
-   - `Components <components.rst>`_ -- Architecture of OpenLDAP, step-ca, and Hydra.
-   - `Architecture <architecture.rst>`_ -- Where security services run in the cluster.
-   - `Telemetry Architecture <telemetry_architecture.rst>`_ -- How telemetry traffic is secured.
+   - `Components <components>`_ -- Architecture of OpenLDAP, step-ca, and Hydra.
+   - `Architecture <architecture>`_ -- Where security services run in the cluster.
+   - `Telemetry Architecture <telemetry_architecture>`_ -- How telemetry traffic is secured.
 
 
 

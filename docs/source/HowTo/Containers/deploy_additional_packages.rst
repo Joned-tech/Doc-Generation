@@ -1,4 +1,4 @@
-
+﻿
 
 Deploy Additional Packages
 ==========================
@@ -35,7 +35,7 @@ Prerequisites
 
 - Cluster nodes are provisioned and reachable via Ansible.
 - The ``omnia_core`` container has SSH access to all target nodes.
-- Local repositories are synced (see `Create Local Repos <../Setup/create_local_repos.rst>`_)
+- Local repositories are synced (see `Create Local Repos <../Setup/create_local_repos>`_)
   if installing from OS repos.
 
 
@@ -265,8 +265,8 @@ Next Steps
 ----------
 
 
-- `Use Apptainer <use_apptainer.rst>`_ -- Use containers for complex application stacks.
-- `Run Hpc Benchmarks <../Slurm/run_hpc_benchmarks.rst>`_ -- Run benchmarks with the
+- `Use Apptainer <use_apptainer>`_ -- Use containers for complex application stacks.
+- `Run Hpc Benchmarks <../Slurm/run_hpc_benchmarks>`_ -- Run benchmarks with the
   installed packages.
 
 

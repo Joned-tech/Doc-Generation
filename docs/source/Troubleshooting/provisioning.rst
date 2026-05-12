@@ -1,4 +1,4 @@
-
+﻿
 
 Provisioning Issues
 ===================
@@ -401,7 +401,7 @@ Nodes not appearing after discovery
 .. note::
 
 
-   - `Discover Nodes <../HowTo/Setup/discover_nodes.rst>`_ -- Full node discovery procedure.
-   - `Pxe Boot Nodes <../HowTo/Setup/pxe_boot_nodes.rst>`_ -- PXE boot configuration guide.
-   - `Log Management <../Operations/log_management.rst>`_ -- Log locations for deeper diagnosis.
+   - `Discover Nodes <../HowTo/Setup/discover_nodes>`_ -- Full node discovery procedure.
+   - `Pxe Boot Nodes <../HowTo/Setup/pxe_boot_nodes>`_ -- PXE boot configuration guide.
+   - `Log Management <../Operations/log_management>`_ -- Log locations for deeper diagnosis.
 

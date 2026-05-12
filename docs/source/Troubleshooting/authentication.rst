@@ -1,4 +1,4 @@
-
+﻿
 
 Authentication Issues
 =====================
@@ -369,7 +369,7 @@ Certificate errors
 .. note::
 
 
-   - `Setup Openldap <../HowTo/Authentication/setup_openldap.rst>`_ -- OpenLDAP setup guide.
-   - `Security Hardening <../Operations/security_hardening.rst>`_ -- TLS and LDAP hardening.
-   - `Security Hardening <../Operations/security_hardening.rst>`_ -- Credential rotation procedures.
+   - `Setup Openldap <../HowTo/Authentication/setup_openldap>`_ -- OpenLDAP setup guide.
+   - `Security Hardening <../Operations/security_hardening>`_ -- TLS and LDAP hardening.
+   - `Security Hardening <../Operations/security_hardening>`_ -- Credential rotation procedures.
 

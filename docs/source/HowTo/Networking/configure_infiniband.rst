@@ -1,4 +1,4 @@
-
+﻿
 
 Configure InfiniBand
 ====================
@@ -35,7 +35,7 @@ Prerequisites
   switch.
 - ``software_config.json`` includes the IB/OFED software package.
 - Local repositories are synced with OFED packages (see
-  `Create Local Repos <../Setup/create_local_repos.rst>`_).
+  `Create Local Repos <../Setup/create_local_repos>`_).
 
 
 
@@ -275,9 +275,9 @@ Next Steps
 ----------
 
 
-- `Run Hpc Benchmarks <../Slurm/run_hpc_benchmarks.rst>`_ -- Run MPI benchmarks over the IB
+- `Run Hpc Benchmarks <../Slurm/run_hpc_benchmarks>`_ -- Run MPI benchmarks over the IB
   fabric.
-- `Configure Roce <configure_roce.rst>`_ -- Configure RoCE as an alternative to InfiniBand.
+- `Configure Roce <configure_roce>`_ -- Configure RoCE as an alternative to InfiniBand.
 
 
 

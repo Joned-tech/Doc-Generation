@@ -1,4 +1,4 @@
-
+﻿
 
 Re-provision Cluster Nodes
 ==========================
@@ -40,11 +40,11 @@ Prerequisites
 
 
 - The OIM is healthy and all OIM services are running (verify with
-  `Verify Oim Services <../HowTo/Setup/verify_oim_services.rst>`_).
+  `Verify Oim Services <../HowTo/Setup/verify_oim_services>`_).
 - Shared storage (NFS or PowerScale) is accessible for any data that must
   survive the re-provision.
 - Updated OS images have been built and are available in the Pulp repository
-  (see `Build Cluster Images <../HowTo/Setup/build_cluster_images.rst>`_).
+  (see `Build Cluster Images <../HowTo/Setup/build_cluster_images>`_).
 - The mapping file has been updated if node roles are changing.
 
 
@@ -210,7 +210,7 @@ After re-provisioning is complete:
 .. note::
 
 
-   - `Add Remove Nodes <add_remove_nodes.rst>`_ -- Add or remove nodes without re-imaging.
-   - `Oim Cleanup <oim_cleanup.rst>`_ -- Full teardown and rebuild of the OIM itself.
-   - `Discover Nodes <../HowTo/Setup/discover_nodes.rst>`_ -- Detailed node discovery procedure.
+   - `Add Remove Nodes <add_remove_nodes>`_ -- Add or remove nodes without re-imaging.
+   - `Oim Cleanup <oim_cleanup>`_ -- Full teardown and rebuild of the OIM itself.
+   - `Discover Nodes <../HowTo/Setup/discover_nodes>`_ -- Detailed node discovery procedure.
 

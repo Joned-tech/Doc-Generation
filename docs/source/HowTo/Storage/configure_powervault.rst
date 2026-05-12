@@ -1,4 +1,4 @@
-
+﻿
 
 Configure PowerVault
 ====================
@@ -244,9 +244,9 @@ Next Steps
 ----------
 
 
-- `Configure Nfs <configure_nfs.rst>`_ -- Configure NFS for shared storage across compute
+- `Configure Nfs <configure_nfs>`_ -- Configure NFS for shared storage across compute
   nodes.
-- `Setup Slurm <../Slurm/setup_slurm.rst>`_ -- Deploy Slurm using the PowerVault
+- `Setup Slurm <../Slurm/setup_slurm>`_ -- Deploy Slurm using the PowerVault
   storage for spool data.
 
 

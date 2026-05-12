@@ -1,4 +1,4 @@
-
+﻿
 
 network_spec.yml Reference
 ==========================
@@ -264,9 +264,9 @@ Usage example
 .. note::
 
 
-   - `Provision Config <provision_config.rst>`_ -- Provisioning parameters that work alongside
+   - `Provision Config <provision_config>`_ -- Provisioning parameters that work alongside
      network configuration.
-   - `Network Topologies <../SupportMatrix/network_topologies.rst>`_ -- How topologies
+   - `Network Topologies <../SupportMatrix/network_topologies>`_ -- How topologies
      affect NIC and VLAN assignments.
-   - `Nics <../SupportMatrix/nics.rst>`_ -- Supported NIC models.
+   - `Nics <../SupportMatrix/nics>`_ -- Supported NIC models.
 

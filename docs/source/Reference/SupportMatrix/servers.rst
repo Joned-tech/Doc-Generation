@@ -1,4 +1,4 @@
-
+﻿
 
 Supported Servers
 =================
@@ -207,8 +207,8 @@ Server role compatibility
 .. note::
 
 
-   - `Operating Systems <operating_systems.rst>`_ -- Supported operating system versions per server.
-   - `Nics <nics.rst>`_ -- Supported network interface cards.
-   - `Minimum Nodes <../ClusterRequirements/minimum_nodes.rst>`_ -- Minimum node counts
+   - `Operating Systems <operating_systems>`_ -- Supported operating system versions per server.
+   - `Nics <nics>`_ -- Supported network interface cards.
+   - `Minimum Nodes <../ClusterRequirements/minimum_nodes>`_ -- Minimum node counts
      per deployment scenario.
 

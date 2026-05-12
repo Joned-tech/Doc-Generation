@@ -1,4 +1,4 @@
-
+﻿
 
 Configure NFS
 =============
@@ -239,11 +239,11 @@ Next Steps
 ----------
 
 
-- `Configure Powervault <configure_powervault.rst>`_ -- Configure block storage for additional
+- `Configure Powervault <configure_powervault>`_ -- Configure block storage for additional
   performance.
-- `Setup Slurm <../Slurm/setup_slurm.rst>`_ -- Slurm uses NFS for shared job scripts
+- `Setup Slurm <../Slurm/setup_slurm>`_ -- Slurm uses NFS for shared job scripts
   and results.
-- `Use Apptainer <../Containers/use_apptainer.rst>`_ -- Store SIF images on NFS for
+- `Use Apptainer <../Containers/use_apptainer>`_ -- Store SIF images on NFS for
   cluster-wide access.
 
 

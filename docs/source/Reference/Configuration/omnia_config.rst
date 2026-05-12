@@ -1,4 +1,4 @@
-
+﻿
 
 omnia_config.yml Reference
 ==========================
@@ -43,7 +43,7 @@ Scheduler settings
      - String
      - No
      - (auto-generated)
-     - Custom path to a user-provided ``slurm.conf``. If omitted, Omnia generates a default configuration. See `Slurm Conf <../SampleFiles/slurm_conf.rst>`_.
+     - Custom path to a user-provided ``slurm.conf``. If omitted, Omnia generates a default configuration. See `Slurm Conf <../SampleFiles/slurm_conf>`_.
    * - ``restart_slurm_services``
      - Boolean
      - No
@@ -200,9 +200,9 @@ Usage example
 .. note::
 
 
-   - `Software Config <software_config.rst>`_ -- Package-level software selection.
-   - `Slurm Conf <../SampleFiles/slurm_conf.rst>`_ -- Custom Slurm configuration.
-   - `Ha Config <ha_config.rst>`_ -- Kubernetes high-availability settings.
-   - `Playbook Reference <../Playbooks/playbook_reference.rst>`_ -- The ``omnia.yml``
+   - `Software Config <software_config>`_ -- Package-level software selection.
+   - `Slurm Conf <../SampleFiles/slurm_conf>`_ -- Custom Slurm configuration.
+   - `Ha Config <ha_config>`_ -- Kubernetes high-availability settings.
+   - `Playbook Reference <../Playbooks/playbook_reference>`_ -- The ``omnia.yml``
      playbook that consumes this file.
 

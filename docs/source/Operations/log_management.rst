@@ -1,4 +1,4 @@
-
+﻿
 
 Log Management
 ==============
@@ -424,7 +424,7 @@ Troubleshooting log issues
 .. note::
 
 
-   - `General <../Troubleshooting/general.rst>`_ -- General troubleshooting that uses logs
+   - `General <../Troubleshooting/general>`_ -- General troubleshooting that uses logs
      as a primary diagnostic tool.
-   - `Best Practices Checklist <best_practices_checklist.rst>`_ -- Storage and maintenance best practices.
+   - `Best Practices Checklist <best_practices_checklist>`_ -- Storage and maintenance best practices.
 

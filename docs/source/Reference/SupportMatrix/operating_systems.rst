@@ -1,4 +1,4 @@
-
+﻿
 
 Supported Operating Systems
 ===========================
@@ -136,16 +136,16 @@ local Pulp mirror and do not require individual subscriptions.
    The ``local_repo.yml`` playbook mirrors all required repositories to the OIM
    so that cluster nodes can install packages without direct internet access.
    Configure repository URLs in
-   `Local Repo Config <../Configuration/local_repo_config.rst>`_.
+   `Local Repo Config <../Configuration/local_repo_config>`_.
 
 
 
 .. note::
 
 
-   - `Servers <servers.rst>`_ -- Supported server models.
-   - `Provision Config <../Configuration/provision_config.rst>`_ -- Provisioning
+   - `Servers <servers>`_ -- Supported server models.
+   - `Provision Config <../Configuration/provision_config>`_ -- Provisioning
      configuration parameters.
-   - `Local Repo Config <../Configuration/local_repo_config.rst>`_ -- Local repository
+   - `Local Repo Config <../Configuration/local_repo_config>`_ -- Local repository
      mirror configuration.
 

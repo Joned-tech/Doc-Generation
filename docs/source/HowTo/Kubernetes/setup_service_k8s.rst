@@ -1,4 +1,4 @@
-
+﻿
 
 Deploy the Service K8s Cluster
 ==============================
@@ -37,7 +37,7 @@ Prerequisites
   control-plane node is supported for non-production use).
 - At least 1 node designated as ``kube_node`` (worker).
 - ``omnia_config.yml`` is configured with Kubernetes parameters.
-- Local repositories are synced (see `Create Local Repos <../Setup/create_local_repos.rst>`_).
+- Local repositories are synced (see `Create Local Repos <../Setup/create_local_repos>`_).
 
 
 
@@ -232,10 +232,10 @@ Next Steps
 ----------
 
 
-- `Configure Ha <configure_ha.rst>`_ -- Configure HA with virtual IP for the K8s API server.
-- `Deploy Powerscale Csi <deploy_powerscale_csi.rst>`_ -- Deploy PowerScale CSI for enterprise
+- `Configure Ha <configure_ha>`_ -- Configure HA with virtual IP for the K8s API server.
+- `Deploy Powerscale Csi <deploy_powerscale_csi>`_ -- Deploy PowerScale CSI for enterprise
   storage.
-- `Setup Telemetry <../Telemetry/setup_telemetry.rst>`_ -- Deploy telemetry services on
+- `Setup Telemetry <../Telemetry/setup_telemetry>`_ -- Deploy telemetry services on
   the K8s cluster.
 
 

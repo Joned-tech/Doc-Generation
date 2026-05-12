@@ -1,4 +1,4 @@
-
+﻿
 
 Prepare the OIM
 ===============
@@ -31,10 +31,10 @@ Prerequisites
 -------------
 
 
-- The `Deploy Omnia Core <deploy_omnia_core.rst>`_ procedure is complete.
-- The `Configure Inputs <configure_inputs.rst>`_ procedure is complete (``network_spec.yml`` and
+- The `Deploy Omnia Core <deploy_omnia_core>`_ procedure is complete.
+- The `Configure Inputs <configure_inputs>`_ procedure is complete (``network_spec.yml`` and
   ``provision_config.yml`` are configured).
-- The `Configure Credentials <configure_credentials.rst>`_ procedure is complete (encrypted credentials
+- The `Configure Credentials <configure_credentials>`_ procedure is complete (encrypted credentials
   file exists).
 - The OIM has at least 2 NICs connected to the admin and BMC networks.
 - Network switches are configured with the appropriate VLANs.
@@ -239,9 +239,9 @@ Next Steps
 ----------
 
 
-- `Verify Oim Services <verify_oim_services.rst>`_ -- Detailed verification of all OIM services.
-- `Create Local Repos <create_local_repos.rst>`_ -- Sync RPM repositories via Pulp.
-- `Build Cluster Images <build_cluster_images.rst>`_ -- Build OS images for cluster nodes.
+- `Verify Oim Services <verify_oim_services>`_ -- Detailed verification of all OIM services.
+- `Create Local Repos <create_local_repos>`_ -- Sync RPM repositories via Pulp.
+- `Build Cluster Images <build_cluster_images>`_ -- Build OS images for cluster nodes.
 
 
 

@@ -1,4 +1,4 @@
-
+﻿
 
 Slurm Config Backup
 ===================
@@ -27,7 +27,7 @@ Prerequisites
 -------------
 
 
-- A working Slurm cluster deployed via `Setup Slurm <setup_slurm.rst>`_.
+- A working Slurm cluster deployed via `Setup Slurm <setup_slurm>`_.
 - ``root`` or ``sudo`` access to the Slurm control node.
 
 
@@ -227,8 +227,8 @@ Next Steps
 ----------
 
 
-- `Add Slurm Nodes <add_slurm_nodes.rst>`_ -- Add new nodes (remember to back up before changes).
-- `Remove Slurm Nodes <remove_slurm_nodes.rst>`_ -- Remove nodes (back up first).
+- `Add Slurm Nodes <add_slurm_nodes>`_ -- Add new nodes (remember to back up before changes).
+- `Remove Slurm Nodes <remove_slurm_nodes>`_ -- Remove nodes (back up first).
 
 
 

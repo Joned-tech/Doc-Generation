@@ -1,4 +1,4 @@
-
+﻿
 
 Supported Network Interfaces
 ============================
@@ -145,8 +145,8 @@ qualified NICs. LOM ports are referenced by their system interface name
 .. note::
 
 
-   - `Network Spec <../Configuration/network_spec.rst>`_ -- Network specification
+   - `Network Spec <../Configuration/network_spec>`_ -- Network specification
      parameters including NIC names.
-   - `Switches <switches.rst>`_ -- Supported switches for connecting NIC ports.
-   - `Network Topologies <network_topologies.rst>`_ -- How NICs map to network topology models.
+   - `Switches <switches>`_ -- Supported switches for connecting NIC ports.
+   - `Network Topologies <network_topologies>`_ -- How NICs map to network topology models.
 

@@ -1,4 +1,4 @@
-
+﻿
 
 Supported Timezone Values
 =========================
@@ -224,6 +224,6 @@ Africa and Middle East
 .. note::
 
 
-   - `Provision Config <../Configuration/provision_config.rst>`_ -- Where ``timezone``
+   - `Provision Config <../Configuration/provision_config>`_ -- Where ``timezone``
      is configured.
 

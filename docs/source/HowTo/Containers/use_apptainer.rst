@@ -1,4 +1,4 @@
-
+﻿
 
 Use Apptainer
 =============
@@ -37,10 +37,10 @@ Prerequisites
 
 - Apptainer is installed on compute nodes (included via
   ``software_config.json`` with ``{"name": "apptainer"}``).
-- NFS shared storage is configured (see `Configure Nfs <../Storage/configure_nfs.rst>`_).
-- Slurm is deployed and functional (see `Setup Slurm <../Slurm/setup_slurm.rst>`_).
+- NFS shared storage is configured (see `Configure Nfs <../Storage/configure_nfs>`_).
+- Slurm is deployed and functional (see `Setup Slurm <../Slurm/setup_slurm>`_).
 - For GPU containers: GPU drivers installed (see
-  `Slurm With Gpu <../Slurm/slurm_with_gpu.rst>`_).
+  `Slurm With Gpu <../Slurm/slurm_with_gpu>`_).
 
 
 
@@ -224,9 +224,9 @@ Next Steps
 ----------
 
 
-- `Deploy Additional Packages <deploy_additional_packages.rst>`_ -- Install additional packages alongside
+- `Deploy Additional Packages <deploy_additional_packages>`_ -- Install additional packages alongside
   containers.
-- `Run Hpc Benchmarks <../Slurm/run_hpc_benchmarks.rst>`_ -- Run benchmark containers.
+- `Run Hpc Benchmarks <../Slurm/run_hpc_benchmarks>`_ -- Run benchmark containers.
 
 
 

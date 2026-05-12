@@ -1,4 +1,4 @@
-
+﻿
 
 provision_config.yml Reference
 ==============================
@@ -28,12 +28,12 @@ Parameter reference
      - String
      - Yes
      - (none)
-     - Absolute path to the PXE mapping CSV file that maps service tags to functional groups, hostnames, and network addresses. See `Pxe Mapping File <../SampleFiles/pxe_mapping_file.rst>`_ for the file format.
+     - Absolute path to the PXE mapping CSV file that maps service tags to functional groups, hostnames, and network addresses. See `Pxe Mapping File <../SampleFiles/pxe_mapping_file>`_ for the file format.
    * - ``timezone``
      - String
      - No
      - ``UTC``
-     - IANA timezone string applied to all provisioned nodes (e.g., ``America/New_York``, ``Asia/Kolkata``). See `Timezones <../Appendices/timezones.rst>`_ for the full list.
+     - IANA timezone string applied to all provisioned nodes (e.g., ``America/New_York``, ``Asia/Kolkata``). See `Timezones <../Appendices/timezones>`_ for the full list.
    * - ``domain_name``
      - String
      - No
@@ -43,7 +43,7 @@ Parameter reference
      - String
      - No
      - ``/opt/omnia/repo_store``
-     - Local directory on the OIM where Pulp-mirrored repositories are stored. Must have sufficient disk space (see `Disk Space <../ClusterRequirements/disk_space.rst>`_).
+     - Local directory on the OIM where Pulp-mirrored repositories are stored. Must have sufficient disk space (see `Disk Space <../ClusterRequirements/disk_space>`_).
    * - ``language``
      - String
      - No
@@ -125,9 +125,9 @@ Usage example
 .. note::
 
 
-   - `Pxe Mapping File <../SampleFiles/pxe_mapping_file.rst>`_ -- PXE mapping CSV format.
-   - `Timezones <../Appendices/timezones.rst>`_ -- Valid timezone values.
-   - `Hostname Requirements <../Appendices/hostname_requirements.rst>`_ -- Hostname rules for
+   - `Pxe Mapping File <../SampleFiles/pxe_mapping_file>`_ -- PXE mapping CSV format.
+   - `Timezones <../Appendices/timezones>`_ -- Valid timezone values.
+   - `Hostname Requirements <../Appendices/hostname_requirements>`_ -- Hostname rules for
      provisioned nodes.
-   - `Network Spec <network_spec.rst>`_ -- Network configuration that complements provisioning.
+   - `Network Spec <network_spec>`_ -- Network configuration that complements provisioning.
 

@@ -1,4 +1,4 @@
-
+﻿
 
 LDMS Metrics
 ============
@@ -257,8 +257,8 @@ All LDMS metrics include the following common labels:
 .. note::
 
 
-   - `Telemetry Config <../Configuration/telemetry_config.rst>`_ -- LDMS configuration
+   - `Telemetry Config <../Configuration/telemetry_config>`_ -- LDMS configuration
      parameters.
-   - `Idrac Metrics <idrac_metrics.rst>`_ -- Hardware-level metrics from iDRAC.
-   - `Gpu Metrics <gpu_metrics.rst>`_ -- GPU telemetry metrics.
+   - `Idrac Metrics <idrac_metrics>`_ -- Hardware-level metrics from iDRAC.
+   - `Gpu Metrics <gpu_metrics>`_ -- GPU telemetry metrics.
 

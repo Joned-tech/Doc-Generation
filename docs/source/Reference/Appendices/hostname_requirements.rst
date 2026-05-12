@@ -1,4 +1,4 @@
-
+﻿
 
 Hostname Requirements
 =====================
@@ -167,8 +167,8 @@ Recommended naming conventions
 .. note::
 
 
-   - `Pxe Mapping File <../SampleFiles/pxe_mapping_file.rst>`_ -- PXE mapping CSV where
+   - `Pxe Mapping File <../SampleFiles/pxe_mapping_file>`_ -- PXE mapping CSV where
      hostnames are assigned.
-   - `Provision Config <../Configuration/provision_config.rst>`_ -- ``domain_name``
+   - `Provision Config <../Configuration/provision_config>`_ -- ``domain_name``
      parameter that provides the DNS suffix.
 

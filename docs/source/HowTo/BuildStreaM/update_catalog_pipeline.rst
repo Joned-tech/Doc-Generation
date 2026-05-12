@@ -1,4 +1,4 @@
-
+﻿
 
 Update Catalog & Pipelines
 ==========================
@@ -30,7 +30,7 @@ Prerequisites
 -------------
 
 
-- GitLab is deployed and configured (see `Deploy Gitlab <deploy_gitlab.rst>`_).
+- GitLab is deployed and configured (see `Deploy Gitlab <deploy_gitlab>`_).
 - The BuildStreaM catalog repository is initialized.
 - A GitLab Runner is registered and active.
 - You have Git access to the catalog repository.
@@ -209,8 +209,8 @@ Next Steps
 ----------
 
 
-- `Buildstream Troubleshooting <buildstream_troubleshooting.rst>`_ -- Debug pipeline failures.
-- `Deploy Gitlab <deploy_gitlab.rst>`_ -- Update GitLab or runner configuration.
+- `Buildstream Troubleshooting <buildstream_troubleshooting>`_ -- Debug pipeline failures.
+- `Deploy Gitlab <deploy_gitlab>`_ -- Update GitLab or runner configuration.
 
 
 

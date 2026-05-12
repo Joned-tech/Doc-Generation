@@ -1,4 +1,4 @@
-
+﻿
 
 Required Ports
 ==============
@@ -448,9 +448,9 @@ Firewall rule summary
 .. note::
 
 
-   - `Security Config <../Configuration/security_config.rst>`_ -- Firewall and security
+   - `Security Config <../Configuration/security_config>`_ -- Firewall and security
      settings.
-   - `Telemetry Config <../Configuration/telemetry_config.rst>`_ -- Telemetry port
+   - `Telemetry Config <../Configuration/telemetry_config>`_ -- Telemetry port
      configuration.
-   - `Minimum Nodes <minimum_nodes.rst>`_ -- Node counts per deployment scenario.
+   - `Minimum Nodes <minimum_nodes>`_ -- Node counts per deployment scenario.
 

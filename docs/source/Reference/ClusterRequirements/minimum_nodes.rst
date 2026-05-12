@@ -1,4 +1,4 @@
-
+﻿
 
 Minimum Node Counts
 ===================
@@ -130,7 +130,7 @@ Scaling guidelines
 .. note::
 
 
-   - `Disk Space <disk_space.rst>`_ -- Disk requirements per node role.
-   - `Ports <ports.rst>`_ -- Network ports required per role.
-   - `Ha Config <../Configuration/ha_config.rst>`_ -- Kubernetes HA settings.
+   - `Disk Space <disk_space>`_ -- Disk requirements per node role.
+   - `Ports <ports>`_ -- Network ports required per role.
+   - `Ha Config <../Configuration/ha_config>`_ -- Kubernetes HA settings.
 

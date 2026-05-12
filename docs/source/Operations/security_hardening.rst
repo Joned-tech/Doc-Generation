@@ -1,4 +1,4 @@
-
+﻿
 
 Security Hardening
 ==================
@@ -319,7 +319,7 @@ Apply security patches regularly on the OIM and all cluster nodes:
 
    Schedule security updates during maintenance windows to avoid disrupting
    running jobs. Drain Slurm nodes before applying updates, and verify cluster
-   health afterward (see `Add Remove Nodes <add_remove_nodes.rst>`_ for drain procedures).
+   health afterward (see `Add Remove Nodes <add_remove_nodes>`_ for drain procedures).
 
 
 
@@ -342,9 +342,9 @@ Additional recommendations
 .. note::
 
 
-   - `Best Practices Checklist <best_practices_checklist.rst>`_ -- Consolidated checklist including
+   - `Best Practices Checklist <best_practices_checklist>`_ -- Consolidated checklist including
      security items.
-   - `Authentication <../Troubleshooting/authentication.rst>`_ -- Troubleshoot LDAP and
+   - `Authentication <../Troubleshooting/authentication>`_ -- Troubleshoot LDAP and
      authentication issues.
-   - `Log Management <log_management.rst>`_ -- Log monitoring for security events.
+   - `Log Management <log_management>`_ -- Log monitoring for security events.
 

@@ -1,4 +1,4 @@
-
+﻿
 
 high_availability_config.yml Reference
 ======================================
@@ -110,9 +110,9 @@ Usage example
 .. note::
 
 
-   - `Omnia Config <omnia_config.rst>`_ -- Kubernetes deployment settings.
-   - `Minimum Nodes <../ClusterRequirements/minimum_nodes.rst>`_ -- Minimum node
+   - `Omnia Config <omnia_config>`_ -- Kubernetes deployment settings.
+   - `Minimum Nodes <../ClusterRequirements/minimum_nodes>`_ -- Minimum node
      counts for HA deployments.
-   - `Ports <../ClusterRequirements/ports.rst>`_ -- Kubernetes ports including
+   - `Ports <../ClusterRequirements/ports>`_ -- Kubernetes ports including
      the API server.
 
