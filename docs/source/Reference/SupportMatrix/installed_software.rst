@@ -1,4 +1,4 @@
-
+﻿
 
 Installed Software
 ==================
@@ -255,10 +255,10 @@ BuildStreaM software (optional)
 .. note::
 
 
-   - `Software Config <../Configuration/software_config>`_ -- How software packages
+   - :doc:`Software Config <../Configuration/software_config>` -- How software packages
      are selected for installation via ``software_config.json``.
-   - `Local Repo Config <../Configuration/local_repo_config>`_ -- Repository mirror
+   - :doc:`Local Repo Config <../Configuration/local_repo_config>` -- Repository mirror
      configuration for package sources.
-   - `Software Config Json <../SampleFiles/software_config_json>`_ -- Sample
+   - :doc:`Software Config Json <../SampleFiles/software_config_json>` -- Sample
      ``software_config.json`` for different deployment scenarios.
 

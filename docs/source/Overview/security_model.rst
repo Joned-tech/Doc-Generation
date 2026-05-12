@@ -328,7 +328,7 @@ Security best practices
    * - **Protect the vault password**
      - Store the Ansible Vault password in a file with ``0600`` permissions, accessible only to the Omnia administrator. Do not commit it to version control.
    * - **Isolate the BMC network**
-     - Use the `Dedicated topology <network_topologies>`_ or VLANs to ensure that BMC/iDRAC traffic is not accessible from user-facing networks.
+     - Use the :doc:`Dedicated topology <network_topologies>` or VLANs to ensure that BMC/iDRAC traffic is not accessible from user-facing networks.
    * - **Rotate credentials**
      - Use the credential utility to rotate passwords periodically, especially after personnel changes.
    * - **Monitor certificate expiration**
@@ -343,9 +343,9 @@ Security best practices
 .. note::
 
 
-   - `Components <components>`_ -- Architecture of OpenLDAP, step-ca, and Hydra.
-   - `Architecture <architecture>`_ -- Where security services run in the cluster.
-   - `Telemetry Architecture <telemetry_architecture>`_ -- How telemetry traffic is secured.
+   - :doc:`Components <components>` -- Architecture of OpenLDAP, step-ca, and Hydra.
+   - :doc:`Architecture <architecture>` -- Where security services run in the cluster.
+   - :doc:`Telemetry Architecture <telemetry_architecture>` -- How telemetry traffic is secured.
 
 
 
@@ -360,7 +360,7 @@ Key-based authentication
 
 A password-less channel is created between the management station and compute
 nodes using SSH authorized keys. This is explained in the
-`Security Controls Map <#security-controls-map>`_.
+:doc:`Security Controls Map <#security-controls-map>`.
 
 
 Authentication to external systems
@@ -447,4 +447,4 @@ Follow Dell Security on these sites:
 - `Security@Dell <https://www.dell.com/support/security/en-us>`_
 - `Support@Dell <https://www.dell.com/support/home/en-us>`_
 
-To provide feedback on this solution, email us at `security@dell.com <mailto:security@dell.com>`_.
+To provide feedback on this solution, email us at :doc:`security@dell.com <mailto:security@dell.com>`.

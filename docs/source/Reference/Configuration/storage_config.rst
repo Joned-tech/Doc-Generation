@@ -213,7 +213,7 @@ Usage example
 .. note::
 
 
-   - `Storage <../SupportMatrix/storage>`_ -- Supported storage platforms.
-   - `Beegfs Server Setup <../Appendices/beegfs_server_setup>`_ -- BeeGFS server setup.
-   - `Disk Space <../ClusterRequirements/disk_space>`_ -- Disk space requirements.
+   - :doc:`Storage <../SupportMatrix/storage>` -- Supported storage platforms.
+   - :doc:`Beegfs Server Setup <../Appendices/beegfs_server_setup>` -- BeeGFS server setup.
+   - :doc:`Disk Space <../ClusterRequirements/disk_space>` -- Disk space requirements.
 

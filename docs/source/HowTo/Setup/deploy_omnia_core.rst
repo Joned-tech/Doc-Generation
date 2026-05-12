@@ -218,9 +218,9 @@ Next Steps
 ----------
 
 
-- `Create Mapping File <create_mapping_file>`_ -- Create the PXE mapping file for node discovery.
-- `Configure Inputs <configure_inputs>`_ -- Configure Omnia input files.
-- `Configure Credentials <configure_credentials>`_ -- Set up encrypted credentials.
+- :doc:`Create Mapping File <create_mapping_file>` -- Create the PXE mapping file for node discovery.
+- :doc:`Configure Inputs <configure_inputs>` -- Configure Omnia input files.
+- :doc:`Configure Credentials <configure_credentials>` -- Set up encrypted credentials.
 
 
 

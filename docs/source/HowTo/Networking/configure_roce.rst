@@ -290,9 +290,9 @@ Next Steps
 ----------
 
 
-- `Configure Infiniband <configure_infiniband>`_ -- Compare with InfiniBand for higher
+- :doc:`Configure Infiniband <configure_infiniband>` -- Compare with InfiniBand for higher
   performance.
-- `Run Hpc Benchmarks <../Slurm/run_hpc_benchmarks>`_ -- Benchmark MPI performance over
+- :doc:`Run Hpc Benchmarks <../Slurm/run_hpc_benchmarks>` -- Benchmark MPI performance over
   RoCE.
 
 

@@ -1,4 +1,4 @@
-
+﻿
 
 Blogs about Omnia
 =================
@@ -10,4 +10,4 @@ Blogs about Omnia
 - `Solution Overview: Dell Omnia Software <https://infohub.delltechnologies.com/section-assets/omnia-solution-overview>`_
 - `Solution Brief: Omnia Software <https://infohub.delltechnologies.com/section-assets/omnia-solution-brief>`_
 
-If you have any feedback about Omnia documentation, please reach out at `omnia.readme@dell.com <mailto:omnia.readme@dell.com>`_.
+If you have any feedback about Omnia documentation, please reach out at :doc:`omnia.readme@dell.com <mailto:omnia.readme@dell.com>`.

@@ -157,19 +157,19 @@ Post-cleanup steps
 
 After a full cleanup, you will need to redeploy Omnia from the beginning:
 
-#. Re-run the OIM preparation playbook (see `Prepare Oim <../HowTo/Setup/prepare_oim>`_).
-#. Rebuild the ``omnia_core`` container (see `Deploy Omnia Core <../HowTo/Setup/deploy_omnia_core>`_).
-#. Reconfigure inputs and credentials (see `Configure Inputs <../HowTo/Setup/configure_inputs>`_
-   and `Configure Credentials <../HowTo/Setup/configure_credentials>`_).
-#. Re-discover and provision nodes (see `Discover Nodes <../HowTo/Setup/discover_nodes>`_).
+#. Re-run the OIM preparation playbook (see :doc:`Prepare Oim <../HowTo/Setup/prepare_oim>`).
+#. Rebuild the ``omnia_core`` container (see :doc:`Deploy Omnia Core <../HowTo/Setup/deploy_omnia_core>`).
+#. Reconfigure inputs and credentials (see :doc:`Configure Inputs <../HowTo/Setup/configure_inputs>`
+   and :doc:`Configure Credentials <../HowTo/Setup/configure_credentials>`).
+#. Re-discover and provision nodes (see :doc:`Discover Nodes <../HowTo/Setup/discover_nodes>`).
 
 
 
 .. note::
 
 
-   - `Reprovision Cluster <reprovision_cluster>`_ -- Re-image individual nodes without tearing
+   - :doc:`Reprovision Cluster <reprovision_cluster>` -- Re-image individual nodes without tearing
      down the entire OIM.
-   - `General <../Troubleshooting/general>`_ -- Common issues that may arise after
+   - :doc:`General <../Troubleshooting/general>` -- Common issues that may arise after
      cleanup and redeployment.
 

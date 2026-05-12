@@ -256,8 +256,8 @@ All iDRAC metrics include the following common labels:
 .. note::
 
 
-   - `Telemetry Config <../Configuration/telemetry_config>`_ -- iDRAC telemetry
+   - :doc:`Telemetry Config <../Configuration/telemetry_config>` -- iDRAC telemetry
      configuration parameters.
-   - `Ldms Metrics <ldms_metrics>`_ -- OS-level metrics from LDMS.
-   - `Gpu Metrics <gpu_metrics>`_ -- GPU telemetry metrics.
+   - :doc:`Ldms Metrics <ldms_metrics>` -- OS-level metrics from LDMS.
+   - :doc:`Gpu Metrics <gpu_metrics>` -- GPU telemetry metrics.
 

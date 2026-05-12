@@ -424,7 +424,7 @@ Troubleshooting log issues
 .. note::
 
 
-   - `General <../Troubleshooting/general>`_ -- General troubleshooting that uses logs
+   - :doc:`General <../Troubleshooting/general>` -- General troubleshooting that uses logs
      as a primary diagnostic tool.
-   - `Best Practices Checklist <best_practices_checklist>`_ -- Storage and maintenance best practices.
+   - :doc:`Best Practices Checklist <best_practices_checklist>` -- Storage and maintenance best practices.
 

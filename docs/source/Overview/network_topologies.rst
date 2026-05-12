@@ -272,7 +272,7 @@ network troubleshooting and firewall rule management straightforward.
 .. note::
 
 
-   - `Architecture <architecture>`_ -- How the OIM connects to each network segment.
-   - `Composable Roles <composable_roles>`_ -- How the mapping file associates nodes with IP
+   - :doc:`Architecture <architecture>` -- How the OIM connects to each network segment.
+   - :doc:`Composable Roles <composable_roles>` -- How the mapping file associates nodes with IP
      addresses across network segments.
 

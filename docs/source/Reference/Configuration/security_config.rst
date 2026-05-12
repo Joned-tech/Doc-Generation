@@ -228,8 +228,8 @@ Usage example
 .. note::
 
 
-   - `Playbook Reference <../Playbooks/playbook_reference>`_ -- The ``auth.yml``
+   - :doc:`Playbook Reference <../Playbooks/playbook_reference>` -- The ``auth.yml``
      playbook that deploys authentication services.
-   - `Ports <../ClusterRequirements/ports>`_ -- Ports required by LDAP,
+   - :doc:`Ports <../ClusterRequirements/ports>` -- Ports required by LDAP,
      Kerberos, and FreeIPA.
 

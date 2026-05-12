@@ -176,7 +176,7 @@ Node roles
 
    A single physical server can hold multiple roles. For example, a small
    cluster might combine ``slurm_control_node`` and ``login_node`` on the same
-   machine. See `Composable Roles <composable_roles>`_ for details on how roles compose.
+   machine. See :doc:`Composable Roles <composable_roles>` for details on how roles compose.
 
 
 
@@ -239,14 +239,14 @@ collaborate through well-defined interfaces:
 
 #. **Provisioning flow** -- The OIM discovers bare-metal nodes via BMC/iDRAC,
    PXE-boots them, installs the operating system, and assigns them to the Slurm
-   or Kubernetes cluster based on the `Composable Roles <composable_roles>`_ mapping file.
+   or Kubernetes cluster based on the :doc:`Composable Roles <composable_roles>` mapping file.
 
 #. **Authentication** -- An ``auth_server`` node (typically in the Slurm
    cluster) runs OpenLDAP. Both Slurm and Kubernetes nodes can be configured to
    authenticate against this central directory.
 
 #. **Telemetry** -- Metrics from all clusters flow into the
-   `Telemetry Architecture <telemetry_architecture>`_ pipeline, which may run on the Kubernetes
+   :doc:`Telemetry Architecture <telemetry_architecture>` pipeline, which may run on the Kubernetes
    cluster (Grafana, VictoriaMetrics) or on the OIM.
 
 #. **Storage** -- NFS shares provisioned through the Kubernetes cluster can be
@@ -278,8 +278,8 @@ A runaway Kubernetes pod cannot starve a Slurm batch job, and vice versa.
 .. note::
 
 
-   - `Components <components>`_ -- Deep dive into each software component.
-   - `Composable Roles <composable_roles>`_ -- How servers are assigned to clusters and roles.
-   - `Network Topologies <network_topologies>`_ -- Network design options that connect the three
+   - :doc:`Components <components>` -- Deep dive into each software component.
+   - :doc:`Composable Roles <composable_roles>` -- How servers are assigned to clusters and roles.
+   - :doc:`Network Topologies <network_topologies>` -- Network design options that connect the three
      clusters.
 
